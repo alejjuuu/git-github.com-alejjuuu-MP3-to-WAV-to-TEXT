@@ -1,0 +1,14 @@
+Active Recall Test:
+
+Question: What is the role of the output layer in a neural network?
+Your Answer: 
+Check if your answer is correct based on your notes or summary.
+
+Question: When would you use a softmax activation function?
+Your Answer: 
+Check if your answer is correct based on your notes or summary.
+
+Question: Why would you not use an activation function in a regression scenario?
+Your Answer: 
+Check if your answer is correct based on your notes or summary.
+
